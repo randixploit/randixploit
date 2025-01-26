@@ -14,7 +14,7 @@
   <br><br>
 	<a href="https://github.com/randixploit"><img src="https://img.shields.io/github/followers/randixploit?label=Github&style=social" /></a>
 	<a href="mailto:randixploit@gmail.com"><img src="https://img.shields.io/badge/Email-randixploit@gmail.com-e06c75?style=social&logo=gmail" /></a>
-	<a href="https://randixploit1337.t.me"><img src="https://img.shields.io/badge/Telegram-@randixploi1337t-black?style=social&logo=telegram" /></a>
+	<a href="https://randixploit1337.t.me"><img src="https://img.shields.io/badge/Telegram-@randixploit1337-black?style=social&logo=telegram" /></a>
     <a href="https://discordapp.com/users/921312784661217350"><img src="https://img.shields.io/badge/Discord-@randixploit-e06c75?style=social&logo=discord" /></a>
 	<br><br><br>
 </div>
