@@ -19,8 +19,8 @@
 	<br><br><br>
 </div>
 <div align="center">
-  <img width="70%" href="https://github.com/randixploit" src="https://pixel-profile.vercel.app/api/github-stats?username=randixploit" /><br><br>
-  <img width="70%" href="https://github.com/randixploit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randixploit&layout=compact&theme=nightowl" />
+  <img width="100%" href="https://github.com/randixploit" src="https://pixel-profile.vercel.app/api/github-stats?username=randixploit" /><br><br>
+  <img width="100%" href="https://github.com/randixploit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randixploit&layout=compact&theme=nightowl" />
 </div>
 <br><br>
 <center>
