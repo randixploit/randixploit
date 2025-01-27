@@ -52,7 +52,7 @@
   <a href="https://t.me/randixploit1337">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="telegram" width="49" height="49"/>
   </a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/randixploit.shtm">
+  <a href="https://tiktok.com/@randixploit.shtml">
     <img src="https://github.com/randixploit/randixploit/blob/main/images/vecteezy_tiktok-png-icon_16716450.png?raw=true" width="50.7" height="50.7" alt="discord"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:randixploit@gmail.com">
