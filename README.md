@@ -15,7 +15,7 @@
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=flat&logo=visual%20studio%20code" /></a>
   <br><br>
 	<a href="https://github.com/randixploit"><img src="https://img.shields.io/github/followers/randixploit?label=Github&style=social" /></a>
-	<a href="mailto:randixploit@gmail.com"><img src="https://img.shields.io/badge/Email-randixploit@gmail.com-e06c75?style=social&logo=gmail" /></a>
+	<a href="mailto:randixploit@proton.me"><img src="https://img.shields.io/badge/Email-randixploit@proton.me-e06c75?style=social&logo=proton" /></a>
 	<a href="https://randixploit1337.t.me"><img src="https://img.shields.io/badge/Telegram-@randixploit1337-black?style=social&logo=telegram" /></a>
     <a href="https://discordapp.com/users/921312784661217350"><img src="https://img.shields.io/badge/Discord-@randixploit-e06c75?style=social&logo=discord" /></a>
 	<br><br><br>
@@ -57,7 +57,7 @@
   <a href="https://tiktok.com/@randixploit.shtml">
     <img src="https://github.com/randixploit/randixploit/blob/main/images/vecteezy_tiktok-png-icon_16716450.png?raw=true" width="50.7" height="50.7" alt="discord"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:randixploit@gmail.com">
+  <a href="mailto:randixploit@proton.me">
     <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/><br>
   </a>
   <br
